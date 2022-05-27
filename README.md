@@ -16,13 +16,13 @@
 
 <div align="center">
   <p align="center">
-<img src=https://i.imgur.com/v6poO4J.jpeg>
+<img src=https://imgur.com/3xw3vX2
 </p>
 
 <img src=https://i.ibb.co/s1CSFK7/ae6572d653ee04f78fc986bddd89d5b3.png>
 </p>
 
-**[![AMRU-SER](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/917025631103?text=Can%20you%20help%20bro)**
+**[![MINER-SER](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/916238183298?text=Can%20you%20help%20bro)**
 
   <p align="center">
 <a href="https:"><img title="Author" src="https://img.shields.io/badge/Author--Amruthesh/AMRU-SER?color=blue&style=for-the-badge&logo=whatsapp"></a>
@@ -32,7 +32,7 @@
 
 ## Click Instagram logo to any doubt contact me👇
 
- [![ANY DOUBT REFER IT](https://i.imgur.com/OnPjBJ7.png)](https://instagram.com/its_me_dron)
+ [![ANY DOUBT REFER IT](https://imgur.com/3xw3vX2)](https://instagram.com/its_me_dron)
 
 
 🚫NEW WHATS APP UPDATE WILL COME QR ERROR
