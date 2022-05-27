@@ -9,7 +9,7 @@
 </p>
 
 #### TOTAL REPO VIEWS📍
-![Visitor Count](https://profile-counter.glitch.me/terror-boy/count.svg)
+![Visitor Count](https://camo.githubusercontent.com/af86c84e5fb58d9200fdab340bd7d7a98ab56ea75d7e5970c2eb867db126df99/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d3132333435363738393026636f6c6f723d626c7565.svg)
   
 
 
