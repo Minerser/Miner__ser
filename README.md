@@ -38,7 +38,7 @@
 🚫NEW WHATS APP UPDATE WILL COME QR ERROR
  NOT SOLUTION FOUNDED🚫
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ABUOP1/AMRU-SER-QR?v=1)
+[![Run on Repl.it](https://replit.com/@Minerser/Minerser-QR?v=1)](https://replit.com/@Minerser/Minerser-QR?v=1)
 <img src=https://i.imgur.com/LTQumgu.jpeg>
 ☝️THIS PROBLEM SOLVED 
 # Follow this rules no error will come
