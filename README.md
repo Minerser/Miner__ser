@@ -42,8 +42,8 @@
 <img src=https://i.imgur.com/LTQumgu.jpeg>
 ☝️THIS PROBLEM SOLVED 
 # Follow this rules no error will come
-1. Click [SCAN](https://replit.com/@ABUOP1/AMRU-SER-QR?v=1) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
-2. You will get a long text that needs after 4th step (AMRU_QR_CODE).
+1. Click [SCAN](https://replit.com/@Minerser/Minerser-QR?v=1) and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
+2. You will get a long text that needs after 4th step (Miner_ser QR code).
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 4. Click [FORK](https://github.com/AMRUSIR/AMRU-SER/fork) 
 5 Click the url showing below to copy deploy template
